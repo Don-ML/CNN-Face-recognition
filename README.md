@@ -1,2 +1,2 @@
-# CNN-Face-recognition
-CNN+tensorflow+python+opencv
+# CNN-faceid
+CNN+tensorflow+python
